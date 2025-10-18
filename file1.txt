@@ -1,1 +1,2 @@
 Hello world
+This line was added from the VS code
